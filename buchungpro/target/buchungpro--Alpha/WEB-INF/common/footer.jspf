@@ -1,0 +1,35 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+ <footer class="page-footer indigo darken-2">
+            <div class="container">
+              <div class="row">
+                <div class="col l6 s12">
+                  <h5 class="white-text">Moses-Pretz Hausverwaltung & Service</h5>
+                  <p class="grey-text text-lighten-4">
+                    Darmstädter Landstraße 312, </br>
+                    60598, Frankfurt am Main </br>
+                  </br>
+                    Telefon: 069-68608650 </br>
+                    Fax 069-68608649 </br>
+                    e-Mail: info@mosespretz.de
+                  </p>
+                </div>
+                <div class="col l4 offset-l2 s12">
+                  <h5 class="white-text">Links</h5>
+                  <ul>
+                    <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+                    <li><a class="grey-text text-lighten-3" href="http://mosespretz.de/?page_id=14">Datenshutz</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="footer-copyright">
+              <div class="container">
+              © 2021 Moses-Pretz Hausverwaltung & Service
+              </div>
+            </div>
+          </footer>
+    
+    </body>
+</html>
